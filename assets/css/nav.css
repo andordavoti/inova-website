@@ -24,6 +24,7 @@ nav {
 }
 
 nav img {
-  height: 8vh;
+  width: auto;
+  height: 50px;
   padding: 2vw;
 }
