@@ -3,7 +3,16 @@
   padding: 0;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
+}
+
+.content {
+  min-height: 80vh;
 }
