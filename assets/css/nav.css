@@ -23,6 +23,10 @@ nav {
   color: #240747;
 }
 
+.nav-links a:hover {
+  color: #240747;
+}
+
 nav img {
   width: auto;
   height: 50px;
