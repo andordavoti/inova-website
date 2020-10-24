@@ -17,6 +17,7 @@ nav {
   font-size: 20px;
   text-decoration: none;
   color: #f1ac8d;
+  font-weight: 500;
 }
 
 .nav-links .active {
