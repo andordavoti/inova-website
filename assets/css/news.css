@@ -21,7 +21,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px;
   width: 33%;
 }
 
@@ -45,6 +44,7 @@
 
   .news-articles .article {
     width: 100%;
+    padding: 20px 0;
   }
 
   .news h2 {
