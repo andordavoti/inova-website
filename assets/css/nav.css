@@ -19,16 +19,12 @@ nav {
   margin-right: 3vw;
   font-size: 20px;
   text-decoration: none;
-  color: #f1ac8d;
+  color: #240747;
   font-weight: 500;
 }
 
-.nav-links .active {
-  color: #240747;
-}
-
 .nav-links a:hover {
-  color: #240747;
+  color: #f1ac8d;
 }
 
 nav img {
