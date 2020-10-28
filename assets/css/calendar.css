@@ -1,0 +1,27 @@
+.calendar {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  .calendar td, .calendar th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  .calendar tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .calendar tr:hover {background-color: #ddd;}
+  
+  .calendar th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:#f1ac8d;
+    color: white;
+  }
+
+  .requestcamp {
+      text-align: center;
+  }
