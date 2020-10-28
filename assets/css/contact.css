@@ -1,0 +1,43 @@
+#contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#contact h1 {
+  margin-top: 20px;
+}
+
+.faq {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.faq h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.letter {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p {
+  margin: 5px 20px;
+  font-size: 14px;
+}
+
+.a {
+  margin-bottom: 30px;
+}
+
+.other-questions {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
