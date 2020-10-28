@@ -25,6 +25,7 @@ nav {
 
 .nav-links a:hover {
   color: #f1ac8d;
+  border-bottom: #f1ac8d solid 2px;
 }
 
 nav img {
