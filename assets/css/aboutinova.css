@@ -6,6 +6,13 @@
   padding: 20px;
 }
 
+.button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
 .image {
   flex: 30%;
   padding: 20px;

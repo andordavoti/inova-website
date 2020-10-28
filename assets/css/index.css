@@ -27,3 +27,18 @@ body {
 .link:hover {
   border-bottom: #f1ac8d solid 2px;
 }
+
+.button {
+  text-decoration: none;
+  color: #240747;
+  background-color: white;
+  padding: 10px 20px;
+  border: 1px solid #240747;
+  border-radius: 10px;
+}
+
+.button:hover {
+  color: white;
+  background-color: #240747;
+  border-color: #240747;
+}
