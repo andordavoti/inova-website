@@ -6,24 +6,35 @@
   padding: 20px;
 }
 
-.imageleft {
+.image {
   flex: 30%;
   padding: 20px;
 }
 
-.imageleft img {
+.image img {
   width: 100%;
   height: auto;
 }
 
-.textright {
+.text {
   flex: 70%;
   padding: 20px;
+}
+
+p {
+  margin: 0px;
 }
 
 /* Responsive layout - makes a one column layout instead of a two-column layout */
 @media (max-width: 1000px) {
   .aboutcontainer {
     flex-direction: column;
+  }
+  .imageleft img {
+    width: 50%;
+    height: auto;
+  }
+  .textright {
+    max-width: 600px;
   }
 }
