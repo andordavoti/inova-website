@@ -11,14 +11,15 @@
   padding: 20px;
 }
 
-.image img {
+.image {
   width: 100%;
-  height: auto;
+  max-width: 300px;
 }
 
 .text {
   flex: 70%;
   padding: 20px;
+  max-width: 600px;
 }
 
 p {
@@ -30,11 +31,8 @@ p {
   .aboutcontainer {
     flex-direction: column;
   }
-  .imageleft img {
+  .image {
     width: 50%;
     height: auto;
-  }
-  .textright {
-    max-width: 600px;
   }
 }
