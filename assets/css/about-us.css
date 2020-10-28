@@ -39,6 +39,7 @@ body {
   padding-left: 20%;
   padding-right: 20%;
   justify-content: center;
+  border-bottom: #f1ac8d solid 1px;
 }
 
 .about-container-alternate {
@@ -50,6 +51,7 @@ body {
   padding-left: 20%;
   padding-right: 20%;
   justify-content: center;
+  border-bottom: #f1ac8d solid 1px;
 }
 
 .content img {
