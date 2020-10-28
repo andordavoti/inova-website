@@ -38,7 +38,6 @@ body {
   padding-bottom: 16px;
   padding-left: 25%;
   padding-right: 25%;
-
 }
 
 .about-container img {
@@ -47,5 +46,6 @@ body {
 
 .about-container p {
   padding-top: 50px;
-  padding-left: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
