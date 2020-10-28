@@ -39,18 +39,6 @@
   color: white;
 }
 
-.calendar tr td a,
-.link {
-  text-decoration: none;
-  color: #240747;
-  font-weight: bold;
-}
-
-.calendar tr td a:hover,
-.link:hover {
-  border-bottom: #f1ac8d solid 2px;
-}
-
 .requestcamp {
   padding: 30px;
   text-align: center;
