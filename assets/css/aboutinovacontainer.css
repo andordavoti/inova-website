@@ -1,0 +1,29 @@
+.aboutcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.imageleft {
+  flex: 30%;
+  padding: 20px;
+}
+
+.imageleft img {
+  width: 100%;
+  height: auto;
+}
+
+.textright {
+  flex: 70%;
+  padding: 20px;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 1000px) {
+  .aboutcontainer {
+    flex-direction: column;
+  }
+}
